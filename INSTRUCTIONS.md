@@ -1,0 +1,1 @@
+python vault.py decrypt .
